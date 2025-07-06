@@ -2,12 +2,13 @@ module "md-rg" {
   source = "../../module/azure-rg"
   rg     = var.prg
 }
-module "md-rg3" {
-  source = "../../module/azure-rg"
-  rg     = var.prg
-}
 
- 
+# module "md-rg1" {
+#   source = "../../module/azure-rg"
+#   rg     = var.prg
+# }
+#jjjjjj
+sujeet kumar kushwaha
 
 module "md-vnet" {
   source     = "../../module/azure-vnet"
