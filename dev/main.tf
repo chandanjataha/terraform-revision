@@ -9,6 +9,7 @@ module "md-rg" {
 # }
 #jjjjjj
 vishal bhai 
+#sujeet kumar kushwaha 
 
 module "md-vnet" {
   source     = "../../module/azure-vnet"
