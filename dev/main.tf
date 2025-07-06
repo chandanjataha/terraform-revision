@@ -8,7 +8,7 @@ module "md-rg" {
 #   rg     = var.prg
 # }
 #jjjjjj
-sujeet kumar kushwaha
+#sujeet kumar kushwaha 
 
 module "md-vnet" {
   source     = "../../module/azure-vnet"
