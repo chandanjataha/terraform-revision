@@ -8,6 +8,7 @@ module "md-rg" {
 #   rg     = var.prg
 # }
 #jjjjjj
+vishal bhai 
 #sujeet kumar kushwaha 
 
 module "md-vnet" {
